@@ -4,3 +4,8 @@ matplotlib
 seaborn
 scipy
 chardet
+numpy
+nltk
+scikit-learn
+certifi
+jinja2
