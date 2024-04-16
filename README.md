@@ -1,4 +1,4 @@
-# Project Title
+# Project
 
 Smishing Detection in Telecommunications: The Efficacy of Textual Feature Integration in Machine Learning Models
 
@@ -46,6 +46,5 @@ To run the notebooks correctly, it has to be run in the following order:
 
 * `data_merge.ipynb`
 * `eda.ipynb`
-* `feature_engineering.ipynb`
-* `model_training_standart.ipynb`
+* `model_training_standard.ipynb`
 * `model_training_nlp.ipynb`
